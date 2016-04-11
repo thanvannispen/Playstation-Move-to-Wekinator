@@ -1,7 +1,7 @@
 # Playstation-Move-to-Wekinator
 
 * A description of the types of things this feature extractor could be used for:
-This Processing application will send X, Y, Z and the acceleration of X, Y, Z of Playstation Move controller(s) to Wekinator.
+This Processing application will send accelerometer X, Y, Z values and the gyroscope values of X, Y, Z of Playstation Move controller(s) to Wekinator.
 The application sends 6 inputs to port 6488 via osc.
 It can for instance be used for air drumming, virtual conducting and / or creating a light show. 
 
