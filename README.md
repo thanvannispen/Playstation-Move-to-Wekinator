@@ -14,7 +14,7 @@ oscP5 is an OSC implementation for the programming environment processing.
 http://www.sojamo.de/libraries/oscP5/
 
 * How to run it and use it
-1. Make sure to have the dependencies installed
-2. Open the playstationMovetoWekinator.pde in Processing and run it.
-3. Use Wekinator, the WekiInputHelper (or other OSC-application) to start using it
-4. When using Wekinator and/or the WekiInputHelper, you can start experimenting with the basic Max/MSP demo file
+- Make sure to have the dependencies installed
+- Open the playstationMovetoWekinator.pde in Processing and run it.
+- Use Wekinator, the WekiInputHelper (or other OSC-application) to start using it
+- When using Wekinator and/or the WekiInputHelper, you can start experimenting with the basic Max/MSP demo file
