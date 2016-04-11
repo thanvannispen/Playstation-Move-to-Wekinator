@@ -13,7 +13,7 @@ The PS Move API is an open source library for Linux, Mac OS X and Windows to acc
 oscP5 is an OSC implementation for the programming environment processing.
 http://www.sojamo.de/libraries/oscP5/
 
-* How to run it and use it
+How to run it and use it
 - Make sure to have the dependencies installed
 - Open the playstationMovetoWekinator.pde in Processing and run it.
 - Use Wekinator, the WekiInputHelper (or other OSC-application) to start using it
